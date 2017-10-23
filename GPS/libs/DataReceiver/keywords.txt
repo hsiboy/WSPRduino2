@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For DataReceiver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DataReceiver	KEYWORD1
+DR	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+enableReceiverInput KEYWORD2
+createDataset	KEYWORD2
+dataTransfer	KEYWORD2
+enableReceiverInput	KEYWORD2
+setStatus	KEYWORD2
+getStatus	KEYWORD2
+getTimestamp	KEYWORD2
+getID	KEYWORD2
+getPos	KEYWORD2
+getCRC	KEYWORD2
+validateData	KEYWORD2
+getDataArray	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For DataTransmitter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DataTransmitter	KEYWORD1
+DT	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+createDataset	KEYWORD2
+transmitData	KEYWORD2
+dataTransfer	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
